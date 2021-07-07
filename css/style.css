@@ -18,3 +18,56 @@ body {
 }
 
 /* Write all remaining styles here */
+
+.main-header {
+	padding-bottom: 10px;
+	margin: 0 0 5px;
+	font-size: 2.5em;
+	font-weight: bold;
+	font-family: 'Baskerville', serif;
+	border-bottom: 1px solid #ccc;
+}
+
+.main-header a {
+  font-size: 2em;
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+.main-header a:hover {
+  font-size: 2em;
+  color: rgb(111,127,122)
+}
+
+.sub-header {
+  color: rgb(111,127,122);
+}
+
+#hero-banner img {
+	border: 5px rgb(152,173,166) solid;
+}
+
+a {
+  color: #1783bb;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1783bb;
+  text-decoration: underline;
+}
+
+.press-logo img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
+.press-logo img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
+footer {
+  font-size: .8em;
+  text-align: right;
+  margin: 20px;
+}
