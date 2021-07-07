@@ -12,9 +12,19 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin: 0 auto;
+	margin:0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+	 
+	
 }
 
+#blue-necklace 
+{
+  border-color: green
+
+}
+  
 /* Write all remaining styles here */
+
+
